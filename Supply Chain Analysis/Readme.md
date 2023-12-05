@@ -1,4 +1,4 @@
-####AtliQ Mart Supply Chain Analytics Project
+##AtliQ Mart Supply Chain Analytics Project
 #Problem Overview
 AtliQ Mart, an up-and-coming FMCG manufacturer headquartered in Gujarat, India, presently operates in Surat, Ahmedabad, and Vadodra. With ambitions to extend its reach to other metro/tier1 cities within the next two years, a notable issue has emerged. Several key customers opted against renewing annual contracts due to perceived service deficiencies. The suspicion is that essential products faced consistent delays or were not delivered in full, potentially resulting in subpar customer service. The company aims to address and rectify this issue before embarking on expansion. The supply chain analytics team, led by the recently onboarded data analyst, Peter Pandey, has been assigned the task of daily monitoring 'On-time' and 'In Full' delivery service levels for all customers.
 
