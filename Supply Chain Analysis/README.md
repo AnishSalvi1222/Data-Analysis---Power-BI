@@ -9,8 +9,18 @@ In his role as the new data analyst on the supply chain team, Peter Pandey is ta
 2. Designing a dashboard in alignment with the outlined requirements from the stakeholder business review meeting.
 3. Transforming insights from the business review meeting into tangible metrics on the dashboard.
 
-## Reference
-Dataset and Task is downloaded from (https://codebasics.io/challenge/codebasics-resume-project-challenge/5)
 
 ## Model
 
+![Data Model](https://github.com/AnishSalvi1222/Data-Analysis---Power-BI/assets/104258169/77cf9852-f39c-463d-a3e2-1204619a4a7f)
+
+
+## Dashboard Images
+
+![Supply Chain Analysis Page 1](https://github.com/AnishSalvi1222/Data-Analysis---Power-BI/assets/104258169/538580fe-39c6-45dd-9bf1-0152bf01a3d6)
+
+![Supply Chain Analysis Page 2](https://github.com/AnishSalvi1222/Data-Analysis---Power-BI/assets/104258169/525bdc8a-e81a-4d8a-b84b-bce444b0e9b4)
+
+
+## Reference
+Dataset and Task is downloaded from (https://codebasics.io/challenge/codebasics-resume-project-challenge/5)
